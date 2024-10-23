@@ -1,6 +1,6 @@
 # Olá, eu sou Arthur Parente 👋
 
-### Quem sou eu 
+### Quem sou eu:
 Estudante de **Engenharia de Software** (UNB) Técnico de Informática (ETB) e estagiario como desenvolvedor **Back-End** **PHP**. Apaixonado por tecnologia, desenvolvimento de sistemas e cibersegurança busco aprender novas ferramentas para evoluir como profissional.
 
 ### Tecnologias que uso:
