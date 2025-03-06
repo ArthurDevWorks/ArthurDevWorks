@@ -1,8 +1,7 @@
 # Olá, eu sou Arthur Parente! 👋🚀
 
 ### 💡 Sobre mim:
-Sou estudante de **Engenharia de Software** na **UnB** e Técnico em Informática pela **ETB**. Atualmente, atuo como **Desenvolvedor Back-End (PHP)** em um estágio, onde aplico meus conhecimentos no desenvolvimento de sistemas robustos e escaláveis.  
-Sou apaixonado por tecnologia, principalmente no desenvolvimento de software, e estou sempre buscando aprender novas ferramentas para evoluir profissionalmente.  
+Sou estudante de **Engenharia de Software** na **UnB** e Técnico em Informática pela **ETB**. Atualmente, atuo como **Desenvolvedor Back-End (PHP)** em um estágio, sigo na jornada contínua de aprendizado e evolução na área de tecnologia, que sempre foi minha paixão.
 
 ---
 
