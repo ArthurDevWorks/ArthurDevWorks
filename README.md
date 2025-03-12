@@ -3,8 +3,6 @@
 ### 💡 Sobre mim:
 Sou estudante de **Engenharia de Software** na **UnB** e Técnico em Informática pela **ETB**. Atualmente, atuo como **Desenvolvedor Back-End (PHP)** em um estágio, sigo na jornada contínua de aprendizado e evolução na área de tecnologia, que sempre foi minha paixão.
 
----
-
 ## 🛠️ Tecnologias e Ferramentas:
   
 <div align="center">
@@ -16,16 +14,12 @@ Sou estudante de **Engenharia de Software** na **UnB** e Técnico em Informátic
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
----
-
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurDevWorks&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDevWorks&layout=compact&theme=dracula"/>
 </div>
-
----
 
 ## 🌍 Vamos nos conectar?
 
