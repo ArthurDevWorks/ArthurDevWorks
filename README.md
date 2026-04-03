@@ -24,7 +24,7 @@ Sou estudante de **Engenharia de Software** na **UnB** e Técnico em Informátic
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDevWorks&layout=compact&theme=dracula"/>
 </div>
 
-## 🌍 Vamos nos conectar?
+## 🌍 Contatos
 
 📌 **LinkedIn:** [Arthur Parente](https://www.linkedin.com/in/arthur-soares-parente-177728320/)  
 💻 **GitHub:** [ArthurDevWorks](https://github.com/ArthurDevWorks)  
